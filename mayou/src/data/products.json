@@ -1,7 +1,7 @@
 [
-  { "id": 1, "name": "T-shirt basique blanc", "category": "Hauts", "price": 25,  "image": "src//assets/images/tshirt-blanc.jpg",  "size": ["S","M","L"],            "color": ["Blanc"],        "material": "Coton" },
-  { "id": 2, "name": "Jean slim noir",         "category": "Bas",  "price": 60,               "image": "src/assets/images/jean-noir.jpg",      "size": ["M","L","XL"],        "color": ["Noir"],        "material": "Denim" },
-  { "id": 3, "name": "Veste en jean",          "category": "Vestes", "price": 80,             "image": "src/assets/images/veste-jean.jpg",     "size": ["S","M","L","XL"],"color": ["Bleu"],        "material": "Denim" },
-  { "id": 4, "name": "Robe fleurie",           "category": "Robes",  "price": 55,             "image": "src/assets/images/robe-fleurie.jpg",  "size": ["XS","S","M"],          "color": ["Multicolore"],"material": "Viscose" },
-  { "id": 5, "name": "Pull en laine gris",     "category": "Hauts",  "price": 70,             "image": "src/assets/images/pull-laine.jpg",    "size": ["M","L","XL"],        "color": ["Gris"],        "material": "Laine" }
+  { "id": 1, "name": "T-shirt basique blanc", "category": "Hauts", "price": 25,  "image": "images/tshirt-blanc.jpg",  "size": ["S","M","L"],            "color": ["Blanc"],        "material": "Coton" },
+  { "id": 2, "name": "Jean slim noir",         "category": "Bas",  "price": 60,               "image": "images/jean-noir.jpg",      "size": ["M","L","XL"],        "color": ["Noir"],        "material": "Denim" },
+  { "id": 3, "name": "Veste en jean",          "category": "Vestes", "price": 80,             "image": "images/veste-jean.jpg",     "size": ["S","M","L","XL"],"color": ["Bleu"],        "material": "Denim" },
+  { "id": 4, "name": "Robe fleurie",           "category": "Robes",  "price": 55,             "image": "images/robe-fleurie.jpg",  "size": ["XS","S","M"],          "color": ["Multicolore"],"material": "Viscose" },
+  { "id": 5, "name": "Pull en laine gris",     "category": "Hauts",  "price": 70,             "image": "images/pull-laine.jpg",    "size": ["M","L","XL"],        "color": ["Gris"],        "material": "Laine" }
 ]
